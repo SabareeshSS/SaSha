@@ -108,8 +108,8 @@ a:hover, a:focus, a:active, a:visited {
 
 
 .hero-header {
-	background: #016cc7;
-	min-height: 800px;
+	background: #FF9F33;
+	min-height: 600px;
 	padding: 5em;
 	color: #fff;
 }
@@ -143,7 +143,7 @@ a:hover, a:focus, a:active, a:visited {
 }
 .feature span {
 	font-size: 5em;
-    color: #016cc7;
+    color: #FF9F33, #016cc7;
 }
 
 .speaker .feature {
@@ -291,6 +291,16 @@ ul.footer-menu li a:hover {
 .bounce { 
     -webkit-animation-name: bounce; 
     animation-name: bounce; 
+}
+
+/* MAP */
+#map{
+  padding-top:20px;
+}
+
+.map-frame {
+    width: 100%;
+    height: 400px;
 }
 
 /* ========================================
